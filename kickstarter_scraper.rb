@@ -1,6 +1,5 @@
 # require libraries/modules here
 require 'nokogiri'
-require 'pry'
 
 def create_project_hash
   # write your code here
@@ -23,6 +22,3 @@ def create_project_hash
 
 
 end
-
-binding.pry
-create_project_hash
